@@ -113,16 +113,84 @@ Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
 ## 📂 Featured Projects
 
-1. **[CLI Coding Assistant](https://github.com/omprakash0702/cli-coding-assistant)** – Auto-generates code projects via command-line.  
-2. **[Ollama DS Assistant](https://github.com/omprakash0702/ollama-ds-assistant)** – AI-powered Data Science assistant with FastAPI & Ollama.  
-3. **[Local AI Assistant](https://github.com/omprakash0702/local-ai-assistant)** – Personal AI assistant using Ollama + Flask.  
-4. **[DocuQuery-AI](https://github.com/omprakash0702/DocuQuery-AI)** – Intelligent document Q&A assistant using LangChain, FAISS & Transformers.  
-5. **[Hotel Reservation Prediction Sys](https://github.com/omprakash0702/Hotel_reservation_prediction_Sys)** – Hotel booking prediction system with MLOps integration.  
-6. **[Recipe-Genie-Lite](https://github.com/omprakash0702/Recipe-Genie-Lite)** – AI-powered recipe generator with Gradio UI.  
-7. **[Hate Speech Detection using LSTM](https://github.com/omprakash0702/Hate_speech_detection_using_LSTM)** – Classifies tweets as hate speech, offensive, or neutral using LSTM.  
-8. **[Automated Identification of Faulty Teeth](https://github.com/omprakash0702/Automated_Identification_of_faulty_teeth)** – Detects and numbers teeth in dental images using deep learning.  
-9. **[Heart Disease Prediction](https://github.com/omprakash0702/Heart-Disease-Prediction)** – Predicts heart disease likelihood using machine learning models.  
-10. **[Covid-19 Data Analysis](https://github.com/omprakash0702/Covid-19-Data-Analysis)** – Analyzes global COVID-19 data trends and visualizations.
+### 🚀 Highlighted Projects (Main Portfolio)
+
+#### ✅ DocuQuery_AI – GenAI + RAG
+- Intelligent document-based question answering system  
+- Multi-PDF semantic search using FAISS & embeddings  
+🔗 https://github.com/omprakash0702/DocuQuery_AI  
+
+---
+
+#### ✅ Customer Satisfaction (CSAT) Prediction
+- End-to-end EDA + ML classification  
+- Business-focused predictive analytics  
+🔗 https://github.com/omprakash0702/Customer-Satisfaction-CSAT-Prediction-using-Machine-Learning  
+
+---
+
+#### ✅ Aerial Detection of Birds & Drones
+- Deep learning based aerial object detection  
+- Surveillance & defense use-case  
+🔗 https://github.com/omprakash0702/Aerial_detection_of_birds_and_drones  
+
+---
+
+#### ✅ AI Travel Planner
+- LLM-powered personalized travel assistant  
+- Generates optimized itineraries using GenAI  
+🔗 https://github.com/omprakash0702/AI_TRAVEL_PLANNER  
+
+---
+
+#### ✅ AI Product Recommender (Flipkart)
+- Hybrid recommendation system  
+- Collaborative + content-based filtering  
+🔗 https://github.com/omprakash0702/FLIPKART-PRODUCT-RECOMMENDER-SYSTEM  
+
+---
+
+#### ✅ Anime Recommendation System – LLMOps
+- Conversational LLM-based recommender system  
+🔗 https://github.com/omprakash0702/Anime-Recommendation-System-LLMOPS  
+
+---
+
+#### ✅ Anime Recommendation System – MLOps
+- ML-based recommender with experiment tracking  
+🔗 https://github.com/omprakash0702/Anime-Recommendation-System-MLOPS  
+
+---
+
+### ✨ Other Notable Projects
+
+- 🔹 **CLI Coding Assistant** – Auto-generates code projects via command-line  
+  🔗 https://github.com/omprakash0702/cli-coding-assistant  
+
+- 🔹 **Ollama DS Assistant** – AI-powered Data Science assistant with FastAPI & Ollama  
+  🔗 https://github.com/omprakash0702/ollama-ds-assistant  
+
+- 🔹 **Local AI Assistant** – Personal AI assistant using Ollama + Flask  
+  🔗 https://github.com/omprakash0702/local-ai-assistant  
+
+- 🔹 **Hotel Reservation Prediction System** – Hotel booking prediction with ML + MLOps  
+  🔗 https://github.com/omprakash0702/Hotel_reservation_prediction_Sys  
+
+- 🔹 **Recipe-Genie-Lite** – AI-powered recipe generator with Gradio UI  
+  🔗 https://github.com/omprakash0702/Recipe-Genie-Lite  
+
+- 🔹 **Hate Speech Detection using LSTM** – Tweet classification into hate/offensive/neutral  
+  🔗 https://github.com/omprakash0702/Hate_speech_detection_using_LSTM  
+
+- 🔹 **Automated Identification of Faulty Teeth** – Dental image detection & numbering using DL  
+  🔗 https://github.com/omprakash0702/Automated_Identification_of_faulty_teeth  
+
+- 🔹 **Heart Disease Prediction** – ML-based medical risk prediction  
+  🔗 https://github.com/omprakash0702/Heart-Disease-Prediction  
+
+- 🔹 **Covid-19 Data Analysis** – Global COVID trend analysis & visualization  
+  🔗 https://github.com/omprakash0702/Covid-19-Data-Analysis  
+
 
 ---
 
@@ -134,11 +202,13 @@ Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
 ## 📊 GitHub Stats
 
-![Omprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omprakash0702&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omprakash0702&show_icons=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=omprakash0702&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash0702&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash0702&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=omprakash0702)
+
+---
 
 ## ⚡ Fun Fact
 I enjoy **building AI tools that automate tasks** and **creating interactive Data Science dashboards**!
