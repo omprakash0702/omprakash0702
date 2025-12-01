@@ -1,3 +1,6 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Omprakash%20-%20AI%20%26%20ML%20Engineer&fontSize=32&fontColor=ffffff)
+
+
 # Hi there 👋, I'm Omprakash!
 
 I'm a **Python & AI enthusiast** passionate about building **ML/AI applications, Data Science projects, and interactive dashboards**. I love exploring cutting-edge AI technologies and turning data into insights.
