@@ -1,5 +1,3 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=1e3c72,2a5298&height=200&section=header&text=Omprakash%20-%20AI%20%26%20ML%20Enthusiast&fontSize=30&fontColor=ffffff)
-
 
 # Hi there 👋, I'm Omprakash!
 
@@ -76,8 +74,6 @@ SQL, Excel, Power BI
 Google Cloud Platform (GCP), Amazon Web Services (AWS)  
 
 ---
-
-
 
 ## 🛠️ Tech Stack
 <p>
@@ -170,12 +166,6 @@ Google Cloud Platform (GCP), Amazon Web Services (AWS)
 - 🔹 **Ollama DS Assistant** – AI-powered Data Science assistant with FastAPI & Ollama  
   🔗 https://github.com/omprakash0702/ollama-ds-assistant  
 
-- 🔹 **Local AI Assistant** – Personal AI assistant using Ollama + Flask  
-  🔗 https://github.com/omprakash0702/local-ai-assistant  
-
-- 🔹 **Hotel Reservation Prediction System** – Hotel booking prediction with ML + MLOps  
-  🔗 https://github.com/omprakash0702/Hotel_reservation_prediction_Sys  
-
 - 🔹 **Recipe-Genie-Lite** – AI-powered recipe generator with Gradio UI  
   🔗 https://github.com/omprakash0702/Recipe-Genie-Lite  
 
@@ -200,11 +190,7 @@ Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omprakash0702&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash0702&layout=compact)
+## 📊 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=omprakash0702)
 
