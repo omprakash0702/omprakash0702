@@ -8,26 +8,76 @@ I'm a **Python & AI enthusiast** passionate about building **ML/AI applications,
 ---
 
 ## 🔭 Currently Working On
-- **CLI Coding Assistant** – AI-powered CLI tool that generates code projects automatically.  
-- **Ollama DS Assistant** – Data Science AI assistant answering queries with FastAPI & Ollama.  
-- **Local AI Assistant** – Personal AI assistant using Ollama + Flask.  
+
+### ✅ AI Code Reviewer (Active Development)
+- AI-powered system to automatically review code for bugs, performance & security issues  
+- Uses LLMs for code understanding & fix suggestions  
+- **Currently adding:**  
+  - Multi-language support  
+  - Automated unit test generation  
+  - Prompt optimization & evaluation framework  
+🔗 https://github.com/omprakash0702/AI_code_reviewer  
+
+---
+
+### ✅ Chat with Any Website (RAG System)
+- Crawl any website and chat with its content  
+- Uses embeddings + vector database for semantic retrieval  
+- **Currently adding:**  
+  - Multi-page crawling & sitemap support  
+  - Faster indexing & response latency  
+  - Better chunking & retrieval strategy  
+🔗 https://github.com/omprakash0702/chat_with_any_website_rag  
+
+---
+
+### ✅ DocuQuery_AI (Latest Version – Under Active Improvement)
+- Intelligent document Q&A system using RAG  
+- Multi-PDF semantic search with conversational interface  
+- **Currently adding:**  
+  - Multi-document querying  
+  - Source citation in answers  
+  - Improved chunking strategy  
+  - UI improvements & cloud deployment  
+🔗 https://github.com/omprakash0702/DocuQuery_AI  
 
 ---
 
 ## 🌱 Learning
 - Large Language Models (LLMs) & Prompt Engineering  
 - Advanced Deep Learning & Computer Vision  
-- MLOps & Deployment (Jenkins, Google Cloud)  
+- MLOps, LLMOps & Production Monitoring  
+- Cloud Deployment on AWS & GCP  
 
 ---
 
-## 💻 Skills
-- **Languages:** Python, C++, HTML, CSS, JavaScript  
-- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch  
-- **Web & Tools:** Streamlit, Flask, Gradio, Git, GitHub  
-- **Others:** SQL, Excel, Power BI  
+## 💻 Core Skills
+
+### 🧑‍💻 Programming Languages
+Python, C++, HTML, CSS, JavaScript  
+
+### 📊 Data Science & Machine Learning
+Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch  
+SHAP, Explainable AI (XAI), Feature Engineering, Model Evaluation  
+
+### 🤖 LLMs & AI Frameworks
+OpenAI, Gemini, Ollama, LangChain, FAISS, Transformers  
+
+### 🌐 Web, APIs & Deployment
+Streamlit, Flask, FastAPI, Gradio, Docker  
+
+### ⚙️ MLOps & Monitoring
+MLflow, Prometheus, Grafana  
+
+### 🗄 Databases & BI
+SQL, Excel, Power BI  
+
+### ☁️ Cloud Platforms
+Google Cloud Platform (GCP), Amazon Web Services (AWS)  
 
 ---
+
+
 
 ## 🛠️ Tech Stack
 <p>
@@ -43,11 +93,20 @@ I'm a **Python & AI enthusiast** passionate about building **ML/AI applications,
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-00B37C?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  
 </p>
 
 ---
@@ -72,6 +131,14 @@ I'm a **Python & AI enthusiast** passionate about building **ML/AI applications,
 - Email: omprakash070204@gmail.com  
 
 ---
+
+## 📊 GitHub Stats
+
+![Omprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omprakash0702&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=omprakash0702&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash0702&layout=compact&theme=tokyonight)
 
 ## ⚡ Fun Fact
 I enjoy **building AI tools that automate tasks** and **creating interactive Data Science dashboards**!
