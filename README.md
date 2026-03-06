@@ -67,7 +67,7 @@ I'm a **Python & AI enthusiast** passionate about building **AI applications, Ge
 
 ### 🧑‍💻 Programming Languages
 
-Python, C++, JavaScript, HTML, CSS
+Python, Java, C++, JavaScript, HTML, CSS
 
 ### 📊 Machine Learning & Data Science
 
