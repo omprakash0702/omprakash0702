@@ -1,56 +1,7 @@
 
----
-
 # Hi there 👋, I'm Omprakash!
 
 I'm a **Python & AI enthusiast** passionate about building **AI applications, GenAI systems, RAG pipelines, and machine learning solutions**. I enjoy exploring cutting-edge AI technologies and turning ideas into **practical AI tools and intelligent systems**.
-
----
-
-# 🔭 Currently Working On
-
-### ✅ AI Code Reviewer
-
-* AI-powered system to automatically **review code for bugs, performance, and security issues**
-* Uses **LLMs for code understanding and improvement suggestions**
-* **Currently adding:**
-
-  * Multi-language support
-  * Automated unit test generation
-  * Prompt optimization & evaluation framework
-
-🔗 [https://github.com/omprakash0702/AI_code_reviewer](https://github.com/omprakash0702/AI_code_reviewer)
-
----
-
-### ✅ RAGForge – Production RAG System
-
-* End-to-end **Retrieval Augmented Generation pipeline**
-* Document ingestion + embedding generation
-* Vector search using **FAISS**
-* Context-aware **LLM responses**
-
-🔗 [https://github.com/omprakash0702/RAGForge](https://github.com/omprakash0702/RAGForge)
-
----
-
-### ✅ LangGraph Agentic AI RAG
-
-* **Agent-based RAG system** built with LangGraph
-* Demonstrates **multi-step reasoning with retrieval**
-* Implements **agent workflows and tool usage**
-
-🔗 [https://github.com/omprakash0702/LangGraph-AgenticAI-RAG](https://github.com/omprakash0702/LangGraph-AgenticAI-RAG)
-
----
-
-### ✅ InferBench AI
-
-* Tool to **benchmark and evaluate LLM inference performance**
-* Measures **latency, throughput, and response efficiency**
-* Useful for **LLMOps and model evaluation**
-
-🔗 [https://github.com/omprakash0702/inferbench-ai](https://github.com/omprakash0702/inferbench-ai)
 
 ---
 
